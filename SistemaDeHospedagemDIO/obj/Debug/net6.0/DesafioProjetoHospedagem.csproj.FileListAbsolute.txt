@@ -1,0 +1,15 @@
+C:\ProjetosC#\SistemaDeHospedagemDIO\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\SistemaDeHospedagemDIO\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\ProjetosC#\SistemaDeHospedagemDIO\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\ProjetosC#\SistemaDeHospedagemDIO\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\SistemaDeHospedagemDIO\obj\Debug\net6.0\DesafioProjetoHospedagem.sourcelink.json
+C:\ProjetosC#\SistemaDeHospedagemDIO\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\ProjetosC#\SistemaDeHospedagemDIO\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\ProjetosC#\SistemaDeHospedagemDIO\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\ProjetosC#\SistemaDeHospedagemDIO\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\ProjetosC#\SistemaDeHospedagemDIO\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\ProjetosC#\SistemaDeHospedagemDIO\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\ProjetosC#\SistemaDeHospedagemDIO\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+C:\ProjetosC#\SistemaDeHospedagemDIO\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\ProjetosC#\SistemaDeHospedagemDIO\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\ProjetosC#\SistemaDeHospedagemDIO\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
